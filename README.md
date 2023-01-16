@@ -30,6 +30,6 @@
 
 ### 📕 En çok kullanılan diller
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/bugskekw/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bugskekw&layout=compact&theme=dark)](https://github.com/bugskekw/github-readme-stats)
 
 ---
