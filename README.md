@@ -23,7 +23,7 @@
 
 ### 📺 İstatistikler
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bugskekw&theme=radical)
+![GitHub Stats] (https://github-readme-stats.vercel.app/api?username=bugskekw&theme=radical)
 
 
 ---
