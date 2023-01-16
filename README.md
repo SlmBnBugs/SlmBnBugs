@@ -21,15 +21,15 @@
 
 ---
 
-### 📺 Latest Stats
+### 📺 İstatistikler
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bugskekw&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bugskekw)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
 
-### 📕 Most Used Languages
+### 📕 En çok kullanılan diller
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bugskekw&layout=compact&theme=vision-friendly-dark)](https://github.com/bugskekw/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bugskekw&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
