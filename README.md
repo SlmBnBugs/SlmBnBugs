@@ -1,6 +1,35 @@
-- 👋 Selam Ben Bugs
-- 👀 Kod Yazmaya Çalışan İsteyen Bir Birey :)
-<!---
-SlmBnBugs/SlmBnBugs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Selamlar, Ben Bugs 👋 
+
+
+<img src="https://komarev.com/ghpvc/?username=bugskekw&style=flat-square&color=blue" alt=""/>
+
+## Kod yazmayı ve öğrenmeyi seviyorum
+
+- 🔭 Küçük projeler yapmaya çalışıyorum
+- 🤩 Kendimi kod dillerinde geliştiriyorym
+- ⭐ HTML ve CSS ile başladığım bu serüvene yeni diller ile devam ediyorum
+
+### Bildiğim diller ve araçlar:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+</div>
+
+<br />
+<br />
+
+---
+
+### 📺 Latest Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bugskekw&show_icons=true&theme=radical)
+
+
+---
+
+### 📕 Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bugskekw&layout=compact&theme=vision-friendly-dark)](https://github.com/bugskekw/github-readme-stats)
+
+---
