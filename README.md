@@ -19,8 +19,8 @@
 ### Kullandığım Web Yönetim Panelleri:
 
 <div>
-  <img src="https://github.com/bugskekw/img/blob/main/cpanel.jpg?raw=true"  width="40" height="40"/>&nbsp;
-  <img src="https://github.com/bugskekw/img/blob/main/plesk.jpg?raw=true" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/bugskekw/img/blob/main/cpanel.png?raw=true"  width="100" height="40"/>&nbsp;
+
 </div>
 
 <br />
