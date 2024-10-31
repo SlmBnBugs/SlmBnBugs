@@ -1,4 +1,4 @@
-# Selamlar, Ben Bugs 👋 
+# Selamlar, Ben Buğra 👋 
 
 
 <img src="https://komarev.com/ghpvc/?username=bugskekw&style=flat-square&color=blue" alt=""/>
